@@ -78,8 +78,8 @@ int fixright(tree*& x) {
 	switch (y->balance_factor)
 	{
 	case LH:RLrotate(x); return 2;
-	case EH:leftrotate(x); return 2;
-	case RH: leftrotate(x); return 1;
+	case EH:leftrotate(x); return 1;
+	case RH: leftrotate(x); return 2;
 	}
 }
 int insertNODE(tree* &root,int data) {//2 la do dai tang, //1 la da sua cay, // -1 la null
