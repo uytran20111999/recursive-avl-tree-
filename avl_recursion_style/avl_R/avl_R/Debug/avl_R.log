@@ -1,7 +1,7 @@
 ﻿  Source.cpp
-c:\users\uytra\desktop\up len git\avl_recursion_style\avl_r\avl_r\source.cpp(75): warning C4715: 'fixleft': not all control paths return a value
-c:\users\uytra\desktop\up len git\avl_recursion_style\avl_r\avl_r\source.cpp(144): warning C4715: 'findminright': not all control paths return a value
-c:\users\uytra\desktop\up len git\avl_recursion_style\avl_r\avl_r\source.cpp(196): warning C4715: 'deleteNODE': not all control paths return a value
-c:\users\uytra\desktop\up len git\avl_recursion_style\avl_r\avl_r\source.cpp(84): warning C4715: 'fixright': not all control paths return a value
-  avl_R.vcxproj -> C:\Users\uytra\Desktop\up len git\avl_recursion_style\avl_R\Debug\avl_R.exe
-  avl_R.vcxproj -> C:\Users\uytra\Desktop\up len git\avl_recursion_style\avl_R\Debug\avl_R.pdb (Full PDB)
+c:\users\uytra\desktop\recursive-avl-tree-\avl_recursion_style\avl_r\avl_r\source.cpp(80): warning C4715: 'fixleft': not all control paths return a value
+c:\users\uytra\desktop\recursive-avl-tree-\avl_recursion_style\avl_r\avl_r\source.cpp(89): warning C4715: 'fixright': not all control paths return a value
+c:\users\uytra\desktop\recursive-avl-tree-\avl_recursion_style\avl_r\avl_r\source.cpp(151): warning C4715: 'findminright': not all control paths return a value
+c:\users\uytra\desktop\recursive-avl-tree-\avl_recursion_style\avl_r\avl_r\source.cpp(203): warning C4715: 'deleteNODE': not all control paths return a value
+  avl_R.vcxproj -> C:\Users\uytra\Desktop\recursive-avl-tree-\avl_recursion_style\avl_R\Debug\avl_R.exe
+  avl_R.vcxproj -> C:\Users\uytra\Desktop\recursive-avl-tree-\avl_recursion_style\avl_R\Debug\avl_R.pdb (Full PDB)
